@@ -25,12 +25,12 @@ td {
   padding: $sp-2 $sp-3;
   background-color: $table-background-color;
   border-bottom: $border rgba($border-color, 0.5);
-  border-left: $border $border-color;
+  border-right: $border $border-color;
 
   @include fs-3;
 
   &:first-of-type {
-    border-left: 0;
+    border-right: 0;
   }
 }
 
