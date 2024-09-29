@@ -161,7 +161,7 @@
 
   .anchor-heading {
     position: absolute;
-    right: -$sp-4;
+    left: -$sp-4;
     width: $sp-5;
     height: 100%;
     padding-right: $sp-1;
@@ -169,8 +169,8 @@
     overflow: visible;
 
     @include mq(md) {
-      right: auto;
-      left: -$sp-5;
+      left: auto;
+      right: -$sp-5;
     }
 
     svg {
