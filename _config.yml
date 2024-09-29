@@ -166,16 +166,16 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    title: هام
     color: blue
   new:
-    title: New
+    title: جديد
     color: green
   note:
-    title: Note
+    title: ملاحظة
     color: purple
   warning:
-    title: Warning
+    title: تحذير
     color: red
 
 # Google Analytics Tracking (optional)
