@@ -2,7 +2,7 @@
 // Skip to main content
 
 a.skip-to-main {
-  left: -999px;
+  right: -999px;
   position: absolute;
   top: auto;
   width: 1px;
@@ -15,7 +15,7 @@ a.skip-to-main:focus,
 a.skip-to-main:active {
   color: $link-color;
   background-color: $body-background-color;
-  left: auto;
+  right: auto;
   top: auto;
   width: 30%;
   height: auto;
